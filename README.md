@@ -1,1 +1,1 @@
-# ui_test_project_playwright
+# ui_test_project
